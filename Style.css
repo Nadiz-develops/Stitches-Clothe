@@ -1,0 +1,118 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+    .All{
+        background-image: url("IMAGES/WhatsApp Image 2024-07-11 at 19.26.37_8b8f77f9.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+            border-radius:0 0 5% 5%;
+        margin-botton:20px;
+    }
+    header{
+        text-align:left;
+        padding:2rem;
+        display:
+       
+    }
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: space-between;
+    }
+    nav li {
+      margin-right: 4rem;
+      margin-left:3rem;
+      }
+     
+    .intro{
+        text-align:center;
+    }
+    footer{
+        text-align:center;
+        padding:1rem;
+    }
+    .h1{
+        color:red;
+    }
+    .intro p{
+        color:white;
+    }
+    nav li a{
+        color:white;
+        text-decoration:none !important;
+        font-weight:bold;
+        }
+        nav li a:hover{
+        color:black;
+        background-color:red;
+    }
+    .h1:first-letter{
+        font-size:3em;
+    }
+    #buy-btc{
+      background-color: white;
+      color: black;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    #buy-btc:hover {
+      background-color: red;
+    }
+    footer a:hover{
+        background-color:red;
+    }
+    footer a{
+        color:black;
+        text-decoration:none !important;
+    }
+    
+    .payment-form {
+      background-color: #f0f0f0;
+      padding: 1em;
+    }
+    
+    .payment-form label {
+      display: block;
+      margin-bottom: 0.5em;
+    }
+    
+    .payment-form input {
+      width: 100%;
+      padding: 0.5em;
+      margin-bottom: 1em;
+      border: 1px solid #ccc;
+    }
+    
+    .payment-form button {
+      background-color: #4CAF50;
+      color: #fff;
+      padding: 0.5em 1em;
+      border: none;
+      border-radius: 0.5em;
+      cursor: pointer;
+    }
+    
+    .payment-form button:hover{
+        background-color:red;
+    }
+    .product-catalog button{
+        background-color:green;
+    }
+    .product-catalog button:hover{
+        background-color:red;
+    }
+     .header .current a{
+      color:#e8491d;
+      font-weight:bold;
+    }
+    .support a{
+        color:red;
+        text-decoration:none !important;
+    }
